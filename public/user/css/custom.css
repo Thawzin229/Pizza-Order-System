@@ -1,0 +1,52 @@
+
+#logoutBtn{
+  background-color:#ffc107 ;
+  padding: 0px 35px;
+  /* margin-left: 15px; */
+  color: #16181b;
+  text-transform: uppercase;
+  text-align: center;
+
+}
+#userimage img{
+ width: 388px;
+ height: 230px;
+ border: 1px solid #f2be00;
+}
+#passwordBtn{
+ background-color: #ffc800;
+}
+#acountlist:hover{
+ background-color:#ffc107 ;
+
+}
+#userImage img{
+ width: 80px;
+ height: 67px;
+ /* border: 2px solid #ffc107; */
+}
+#acountlist{
+ padding: 10px 30px;
+}
+#list:hover{
+ background-color: #ffc107;
+}
+#pizzaImage{
+ width: 100px;
+ height: 220px;
+}
+#sortingBtn{
+ background-color: #ffc107;
+ width: 150px;
+ text-align: center;
+ padding: 5px 10px;
+ border: none;
+}
+#accountBtn{
+ background-color: #ffc800;
+ color: #0b2e13;
+ width: 186px;
+ padding: 22px 0px;
+ text-align: center;
+ border: none;
+}
